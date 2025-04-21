@@ -1,0 +1,15 @@
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Application\obj\Debug\net8.0\ClearConvas.Application.csproj.AssemblyReference.cache
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Application\obj\Debug\net8.0\ClearConvas.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Application\obj\Debug\net8.0\ClearConvas.Application.AssemblyInfoInputs.cache
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Application\obj\Debug\net8.0\ClearConvas.Application.AssemblyInfo.cs
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Application\obj\Debug\net8.0\ClearConvas.Application.csproj.CoreCompileInputs.cache
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Application\bin\Debug\net8.0\ClearConvas.Application.deps.json
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Application\bin\Debug\net8.0\ClearConvas.Application.dll
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Application\bin\Debug\net8.0\ClearConvas.Application.pdb
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Application\bin\Debug\net8.0\ClearConvas.Core.dll
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Application\bin\Debug\net8.0\ClearConvas.Core.pdb
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Application\obj\Debug\net8.0\ClearCon.60F30863.Up2Date
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Application\obj\Debug\net8.0\ClearConvas.Application.dll
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Application\obj\Debug\net8.0\refint\ClearConvas.Application.dll
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Application\obj\Debug\net8.0\ClearConvas.Application.pdb
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Application\obj\Debug\net8.0\ref\ClearConvas.Application.dll

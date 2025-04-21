@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ClearConvas.Application/1.0.0": {
+        "dependencies": {
+          "ClearConvas.Core": "1.0.0"
+        },
+        "runtime": {
+          "ClearConvas.Application.dll": {}
+        }
+      },
+      "ClearConvas.Core/1.0.0": {
+        "runtime": {
+          "ClearConvas.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClearConvas.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClearConvas.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

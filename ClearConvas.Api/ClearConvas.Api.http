@@ -1,0 +1,6 @@
+@ClearConvas.Api_HostAddress = http://localhost:5287
+
+GET {{ClearConvas.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

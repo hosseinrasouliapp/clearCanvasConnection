@@ -1,0 +1,11 @@
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Core\bin\Debug\net8.0\ClearConvas.Core.deps.json
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Core\bin\Debug\net8.0\ClearConvas.Core.dll
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Core\bin\Debug\net8.0\ClearConvas.Core.pdb
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Core\obj\Debug\net8.0\ClearConvas.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Core\obj\Debug\net8.0\ClearConvas.Core.AssemblyInfoInputs.cache
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Core\obj\Debug\net8.0\ClearConvas.Core.AssemblyInfo.cs
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Core\obj\Debug\net8.0\ClearConvas.Core.csproj.CoreCompileInputs.cache
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Core\obj\Debug\net8.0\ClearConvas.Core.dll
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Core\obj\Debug\net8.0\refint\ClearConvas.Core.dll
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Core\obj\Debug\net8.0\ClearConvas.Core.pdb
+D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Core\obj\Debug\net8.0\ref\ClearConvas.Core.dll

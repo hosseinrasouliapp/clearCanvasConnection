@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "kmUVhLubkHb0ESxP2FJbuudDmRz47+oM6kHuo7SrMIQ=",
+  "Source": "ClearConvas.Api",
+  "BasePath": "_content/ClearConvas.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
