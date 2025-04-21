@@ -35,7 +35,7 @@ namespace ClearConvas.Api.Controllers
                 PatientName = s.PatientName,
                 StudyDate = s.StudyDate
             });
-
+            Console.WriteLine($"QueryStudies: {studies}");
             return Ok(response);
         }
 

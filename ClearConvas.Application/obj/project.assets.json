@@ -34,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\ClearConvas.Application\\ClearConvas.Application.csproj",
+      "projectUniqueName": "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\clearCanvasConnection\\ClearConvas.Application\\ClearConvas.Application.csproj",
       "projectName": "ClearConvas.Application",
-      "projectPath": "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\ClearConvas.Application\\ClearConvas.Application.csproj",
+      "projectPath": "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\clearCanvasConnection\\ClearConvas.Application\\ClearConvas.Application.csproj",
       "packagesPath": "C:\\Users\\hrsoft\\.nuget\\packages\\",
-      "outputPath": "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\ClearConvas.Application\\obj\\",
+      "outputPath": "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\clearCanvasConnection\\ClearConvas.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
@@ -62,8 +62,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\ClearConvas.Core\\ClearConvas.Core.csproj": {
-              "projectPath": "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\ClearConvas.Core\\ClearConvas.Core.csproj"
+            "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\clearCanvasConnection\\ClearConvas.Core\\ClearConvas.Core.csproj": {
+              "projectPath": "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\clearCanvasConnection\\ClearConvas.Core\\ClearConvas.Core.csproj"
             }
           }
         }

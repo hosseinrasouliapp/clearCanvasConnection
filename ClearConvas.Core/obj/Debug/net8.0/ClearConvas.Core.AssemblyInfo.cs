@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClearConvas.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abbe47b248e619ffdb80fe5f798fc9f52f975860")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClearConvas.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClearConvas.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

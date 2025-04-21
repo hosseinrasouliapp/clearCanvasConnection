@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\ClearConvas.Core\\ClearConvas.Core.csproj": {}
+    "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\clearCanvasConnection\\ClearConvas.Core\\ClearConvas.Core.csproj": {}
   },
   "projects": {
-    "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\ClearConvas.Core\\ClearConvas.Core.csproj": {
+    "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\clearCanvasConnection\\ClearConvas.Core\\ClearConvas.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\ClearConvas.Core\\ClearConvas.Core.csproj",
+        "projectUniqueName": "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\clearCanvasConnection\\ClearConvas.Core\\ClearConvas.Core.csproj",
         "projectName": "ClearConvas.Core",
-        "projectPath": "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\ClearConvas.Core\\ClearConvas.Core.csproj",
+        "projectPath": "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\clearCanvasConnection\\ClearConvas.Core\\ClearConvas.Core.csproj",
         "packagesPath": "C:\\Users\\hrsoft\\.nuget\\packages\\",
-        "outputPath": "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\ClearConvas.Core\\obj\\",
+        "outputPath": "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\clearCanvasConnection\\ClearConvas.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",

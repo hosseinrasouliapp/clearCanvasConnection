@@ -20,6 +20,7 @@ namespace ClearConvas.Application.Commands.CommandHandlers
         public async Task<bool> Handle(StoreDicomCommand command)
         {
             // منطق ذخیره فایل DICOM
+            Console.WriteLine($"Storing DICOM file at path: {command.FilePath}");
             return await _dicomService.StoreDicom(command.FilePath);
         }
     }

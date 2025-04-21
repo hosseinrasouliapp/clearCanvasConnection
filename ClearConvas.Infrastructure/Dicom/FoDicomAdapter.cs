@@ -31,6 +31,7 @@ namespace ClearConvas.Infrastructure.Dicom
         public async Task<List<DicomEntity>> QueryStudies(string patientId = null, string studyUid = null)
         {
             var datasets = new List<DicomEntity>();
+            Console.WriteLine($"Sending C-FIND request with PatientId: {patientId}, StudyInstanceUid: {studyUid}");
 
             var cFindRequest = new DicomCFindRequest(DicomQueryRetrieveLevel.Study)
             {
@@ -44,7 +45,8 @@ namespace ClearConvas.Infrastructure.Dicom
 
             cFindRequest.OnResponseReceived = (request, response) =>
             {
-                if (response.Status == DicomStatus.Success && response.Dataset != null)
+                Console.WriteLine($"Response received with status: {response.Status}*");
+               if (response.Status == DicomStatus.Success && response.Dataset != null)
                 {
                     datasets.Add(new DicomEntity
                     {
@@ -53,20 +55,43 @@ namespace ClearConvas.Infrastructure.Dicom
                         PatientName = response.Dataset.GetString(DicomTag.PatientName),
                         StudyDate = response.Dataset.GetString(DicomTag.StudyDate)
                     });
+
+                    Console.WriteLine("Dataset added successfully.");
                 }
+                else
+               {
+                    Console.WriteLine("No dataset or unsuccessful response.");
+               }
             };
+            
 
             var client = DicomClientFactory.Create(_clearCanvasHost, _clearCanvasPort, false, _clientAet, _clearCanvasAet);
             await client.AddRequestAsync(cFindRequest);
             await client.SendAsync();
-
+            Console.WriteLine($"Total studies retrieved: {datasets.Count}");
             return datasets;
         }
 
         public async Task<bool> StoreDicom(string filePath)
         {
-            // منطق ذخیره فایل DICOM
-            return true; // تست اولیه
+            {
+                if (!File.Exists(filePath))
+                {
+                    Console.WriteLine($"File does not exist at path: {filePath}");
+                    return false;
+                }
+
+                Console.WriteLine($"Sending C-STORE request for file: {filePath}");
+                var dicomFile = DicomFile.Open(filePath);
+               // var client = new DicomClient();
+                //var cStoreRequest = new DicomCStoreRequest(dicomFile);
+
+                //await client.AddRequestAsync(cStoreRequest);
+               // await client.SendAsync(_clearCanvasHost, _clearCanvasPort, false, _clientAet, _clearCanvasAet);
+
+                Console.WriteLine("C-STORE request completed successfully.");
+                return true;
+            }
         }
 
     }

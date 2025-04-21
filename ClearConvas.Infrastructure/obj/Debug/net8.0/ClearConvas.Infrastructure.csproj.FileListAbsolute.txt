@@ -15,3 +15,21 @@ D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Infrastructure\obj
 D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Infrastructure\obj\Debug\net8.0\refint\ClearConvas.Infrastructure.dll
 D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Infrastructure\obj\Debug\net8.0\ClearConvas.Infrastructure.pdb
 D:\Development\C#\web\ClearConvas Asa\ClearConvas\ClearConvas.Infrastructure\obj\Debug\net8.0\ref\ClearConvas.Infrastructure.dll
+D:\Development\C#\web\ClearConvas Asa\ClearConvas git\clearCanvasConnection\ClearConvas.Infrastructure\bin\Debug\net8.0\ClearConvas.Infrastructure.deps.json
+D:\Development\C#\web\ClearConvas Asa\ClearConvas git\clearCanvasConnection\ClearConvas.Infrastructure\bin\Debug\net8.0\ClearConvas.Infrastructure.dll
+D:\Development\C#\web\ClearConvas Asa\ClearConvas git\clearCanvasConnection\ClearConvas.Infrastructure\bin\Debug\net8.0\ClearConvas.Infrastructure.pdb
+D:\Development\C#\web\ClearConvas Asa\ClearConvas git\clearCanvasConnection\ClearConvas.Infrastructure\bin\Debug\net8.0\ClearConvas.Application.dll
+D:\Development\C#\web\ClearConvas Asa\ClearConvas git\clearCanvasConnection\ClearConvas.Infrastructure\bin\Debug\net8.0\ClearConvas.Core.dll
+D:\Development\C#\web\ClearConvas Asa\ClearConvas git\clearCanvasConnection\ClearConvas.Infrastructure\bin\Debug\net8.0\ClearConvas.Application.pdb
+D:\Development\C#\web\ClearConvas Asa\ClearConvas git\clearCanvasConnection\ClearConvas.Infrastructure\bin\Debug\net8.0\ClearConvas.Core.pdb
+D:\Development\C#\web\ClearConvas Asa\ClearConvas git\clearCanvasConnection\ClearConvas.Infrastructure\obj\Debug\net8.0\ClearConvas.Infrastructure.csproj.AssemblyReference.cache
+D:\Development\C#\web\ClearConvas Asa\ClearConvas git\clearCanvasConnection\ClearConvas.Infrastructure\obj\Debug\net8.0\ClearConvas.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\C#\web\ClearConvas Asa\ClearConvas git\clearCanvasConnection\ClearConvas.Infrastructure\obj\Debug\net8.0\ClearConvas.Infrastructure.AssemblyInfoInputs.cache
+D:\Development\C#\web\ClearConvas Asa\ClearConvas git\clearCanvasConnection\ClearConvas.Infrastructure\obj\Debug\net8.0\ClearConvas.Infrastructure.AssemblyInfo.cs
+D:\Development\C#\web\ClearConvas Asa\ClearConvas git\clearCanvasConnection\ClearConvas.Infrastructure\obj\Debug\net8.0\ClearConvas.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Development\C#\web\ClearConvas Asa\ClearConvas git\clearCanvasConnection\ClearConvas.Infrastructure\obj\Debug\net8.0\ClearConvas.Infrastructure.sourcelink.json
+D:\Development\C#\web\ClearConvas Asa\ClearConvas git\clearCanvasConnection\ClearConvas.Infrastructure\obj\Debug\net8.0\ClearCon.D89E20F3.Up2Date
+D:\Development\C#\web\ClearConvas Asa\ClearConvas git\clearCanvasConnection\ClearConvas.Infrastructure\obj\Debug\net8.0\ClearConvas.Infrastructure.dll
+D:\Development\C#\web\ClearConvas Asa\ClearConvas git\clearCanvasConnection\ClearConvas.Infrastructure\obj\Debug\net8.0\refint\ClearConvas.Infrastructure.dll
+D:\Development\C#\web\ClearConvas Asa\ClearConvas git\clearCanvasConnection\ClearConvas.Infrastructure\obj\Debug\net8.0\ClearConvas.Infrastructure.pdb
+D:\Development\C#\web\ClearConvas Asa\ClearConvas git\clearCanvasConnection\ClearConvas.Infrastructure\obj\Debug\net8.0\ref\ClearConvas.Infrastructure.dll

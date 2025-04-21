@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hgQ1NH9JRy8=",
+  "dgSpecHash": "F4DMC7nN+Co=",
   "success": true,
-  "projectFilePath": "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\ClearConvas.Infrastructure\\ClearConvas.Infrastructure.csproj",
+  "projectFilePath": "D:\\Development\\C#\\web\\ClearConvas Asa\\ClearConvas git\\clearCanvasConnection\\ClearConvas.Infrastructure\\ClearConvas.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hrsoft\\.nuget\\packages\\communitytoolkit.highperformance\\8.3.2\\communitytoolkit.highperformance.8.3.2.nupkg.sha512",
     "C:\\Users\\hrsoft\\.nuget\\packages\\fo-dicom\\5.2.1\\fo-dicom.5.2.1.nupkg.sha512",

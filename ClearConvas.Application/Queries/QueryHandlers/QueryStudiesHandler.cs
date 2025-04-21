@@ -20,7 +20,10 @@ namespace ClearConvas.Application.Queries.QueryHandlers
 
         public async Task<List<DicomEntity>> Handle(DicomStudyQuery query)
         {
-            return await _dicomService.QueryStudies(query.PatientId, query.StudyInstanceUid);
+            Console.WriteLine($"Querying studies with PatientId: {query.PatientId}, StudyInstanceUid: {query.StudyInstanceUid}");
+            var result = await _dicomService.QueryStudies(query.PatientId, query.StudyInstanceUid);
+            Console.WriteLine($"Received {result.Count} studies.");
+            return result;
         }
     }
 }
